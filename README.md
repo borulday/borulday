@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://gokay.dev">Website</a> •
-  <a href="https://twitter.com/MGokayBorulday">Twitter</a> •
+  <a href="https://twitter.com/gokaybr">Twitter</a> •
   <a href="https://www.linkedin.com/in/borulday/">Linkedin</a>
 </p>
 
